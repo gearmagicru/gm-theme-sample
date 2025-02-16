@@ -1,12 +1,7 @@
 {
     "name": "gearmagicru/gm-theme-smaple",
-    "description": "Sample Theme for GM CMS",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "theme"
-    ],
+    "description": "Theme \"Sample\" for GM CMS",
+    "keywords": ["gearmagic", "gm-theme", "gm-cms", "theme"],
     "homepage": "https://github.com/gearmagicru/gm-theme-sample",
     "type": "theme",
     "license": "GPL-2.0-or-later",
